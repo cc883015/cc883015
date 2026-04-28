@@ -1,6 +1,7 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                          HEADER · banner                            -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=charles&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=imaging%20%C2%B7%20full-stack%20%C2%B7%20cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
@@ -8,24 +9,19 @@
 <br />
 
 <a href="https://github.com/cc883015">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=600&color=00B4D8&center=true&vCenter=true&multiline=true&width=820&height=100&lines=%24+cat+hello_world.sh;%E2%80%BA+Image+Tunning+%C2%B7+Front-End+Engineer+%C2%B7+Security+Researcher;%E2%80%BA+7+years+of+crafting+code+and+counting..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=600&color=00B4D8&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%24+cat+about.md;%E2%80%BA+imaging+tuner+%C2%B7+full-stack+engineer+%C2%B7+security+researcher;%E2%80%BA+seven+years+writing.+still+typing." />
 </a>
 
-<br />
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=cc883015&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/cc883015?style=for-the-badge&color=00B4D8&labelColor=0d1117&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/Blogger-7_Yrs-00B4D8?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Status-Open_to_Work-00C896?style=for-the-badge&labelColor=0d1117" />
-
-<br />
-<br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cc883015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&font_family=JetBrains%20Mono" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc883015&layout=compact&theme=tokyonight&font_family=JetBrains%20Mono" />
+<img src="https://img.shields.io/badge/Tech_Blogger-7_yrs-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
+<br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=3" width="100%" />
 
@@ -46,9 +42,11 @@
 ####  &nbsp;<code>▸</code>&nbsp;&nbsp; I D E N T I T Y
 
 <sub><b>Charles</b> &nbsp;&middot;&nbsp; he/him &nbsp;&middot;&nbsp; based in Australia<br/>
+fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>中文</kbd>&nbsp; <kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd></sub>
+
 <br /><br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>3 Years</i>
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>several years</i>
 
 <sub>Tuned camera pipelines for <b>mobile devices</b> and <b>in-vehicle (automotive)</b> imaging systems.<br/>
 Hands-on across the full ISP chain — from raw sensor data to final delivered frame.</sub>
@@ -115,6 +113,46 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 
 > <sub>&nbsp;<i>secure by design, fast by default.</i></sub>
 
+</td>
+<td valign="top" width="42%">
+
+<br />
+
+```bash
+┌─────────────────────────────┐
+│  $ uptime                   │
+│  › online since 2018        │
+│                             │
+│  $ status                   │
+│  › shipping                 │
+│                             │
+│  $ caffeine                 │
+│  › 98% [critical]           │
+│                             │
+│  $ bugs                     │
+│  › ░░░░░░░░░░ 0%            │
+│                             │
+│  $ exit                     │
+│  › nope. still building.    │
+└─────────────────────────────┘
+```
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-mobile_imaging-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-automotive_camera-9333EA?style=flat-square&labelColor=0d1117" />
+<br />
+<img src="https://img.shields.io/badge/-full--stack_(2_yrs)-00C896?style=flat-square&labelColor=0d1117" />
+<br />
+<img src="https://img.shields.io/badge/-network_security-FC5531?style=flat-square&labelColor=0d1117" />
+<br />
+<img src="https://img.shields.io/badge/-IT_support-F59E0B?style=flat-square&labelColor=0d1117" />
+
+</div>
+
+</td>
 </tr>
 </table>
 
