@@ -1,18 +1,18 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER · banner                            -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=Charles-Chen&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Image Tunning%20%C2%B7%20Front-end-development%20%C2%B7%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=220&section=header&text=Charles%20Chen&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Image%20Tuning%20%7C%20Front-end%20Development%20%7C%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" alt="Header Banner" />
 
-<br /><br />
-<img src="https://komarev.com/ghpvc/?username=cc883015&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Tech_Blogger-7_yrs-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=cc883015&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tech_Blogger-7_yrs-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
+
 </div>
-<br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=3" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=2" width="100%" />
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                       // 01 — about                                 -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
