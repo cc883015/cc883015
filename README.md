@@ -12,7 +12,6 @@
 
 <img src="https://img.shields.io/badge/IMAGE_SIGNAL_PROCESSOR_(ISP_TUNING)-00B4D8?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/CYBERSECURITY-FC5531?style=for-the-badge&labelColor=0d1117" />
-<br />
 <img src="https://img.shields.io/badge/CLOUD--NATIVE_%26_EDGE-9333EA?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/IT_SUPPORT-F59E0B?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/IoT_%26_EMBEDDED-00B4D8?style=for-the-badge&labelColor=0d1117" />
