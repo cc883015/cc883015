@@ -7,29 +7,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=Charles-Chen&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Image Tunning%20%C2%B7%20Front-end-development%20%C2%B7%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <br /><br />
-
-<!-- ─────────── ROLE PILLS ─────────── -->
-
-<br >
-
-
-<img src="https://img.shields.io/badge/IMAGE_SIGNAL_PROCESSOR_(ISP_TUNING)-00B4D8?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-FC5531?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CLOUD--NATIVE_%26_EDGE-9333EA?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/IT_SUPPORT-F59E0B?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/IoT_%26_EMBEDDED-00B4D8?style=for-the-badge&labelColor=0d1117" />
-
-<br /><br />
-
 <img src="https://komarev.com/ghpvc/?username=cc883015&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Tech_Blogger-7_yrs-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
-
 </div>
-
 <br />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=3" width="100%" />
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                       // 01 — about                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<br />
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                       // 01 — about                                 -->
