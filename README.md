@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=charles&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=imaging%20%C2%B7%20full-stack%20%C2%B7%20cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=Charles Chen&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=imaging%20%C2%B7%20full-stack%20%C2%B7%20cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <br /><br />
 
@@ -44,7 +44,7 @@
 
 ####  <code>▸</code>&nbsp;&nbsp; I D E N T I T Y
 
-<sub><b>Charles</b> &nbsp;&middot;&nbsp; m &nbsp;&middot;&nbsp; based in Australia<br/>
+<sub><b>Charles</b> &nbsp;&middot;&nbsp;  &nbsp;&middot;&nbsp; based in Australia<br/>
 </sub>
 
 <br /><br />
