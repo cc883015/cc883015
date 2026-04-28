@@ -30,12 +30,33 @@
 
 <br />
 
+<!-- ─────────── DYNAMIC TYPING ANIMATION ─────────── -->
+
+<a href="https://github.com/cc883015">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2400&pause=700&color=00B4D8&center=true&vCenter=true&width=820&height=70&lines=Hi%2C+I'm+Charles+Chen+%F0%9F%91%8B;Image+Signal+Processor+(ISP+Tuning);Front-End+Developer;Cybersecurity+Researcher;Always+building.+Always+breaking." />
+</a>
+
+<br /><br />
+
 ####  <code>▸</code>&nbsp;&nbsp; I D E N T I T Y
 
-<sub><b>Charles</b> &nbsp;&middot;&nbsp;  &nbsp;&middot;&nbsp; based in Australia<br/>
+<sub><b>Charles Chen</b> &nbsp;&middot;&nbsp; he/him &nbsp;&middot;&nbsp; based in Australia<br/>
+fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd>
 </sub>
 
 <br /><br />
+
+<!-- ─────────── ROLE PILLS · all English ─────────── -->
+
+<img src="https://img.shields.io/badge/Image_Signal_Processor_(ISP_Tuning)-00B4D8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Front--End_Development-00C896?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Cybersecurity-FC5531?style=for-the-badge&labelColor=0d1117" />
+<br />
+<img src="https://img.shields.io/badge/Cloud--Native_%26_Edge-9333EA?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IT_Support-F59E0B?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IoT_%26_Embedded-00B4D8?style=for-the-badge&labelColor=0d1117" />
+
+<br /><br /><br />
 
 ####  <code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>several years</i>
 
