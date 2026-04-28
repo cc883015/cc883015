@@ -111,23 +111,6 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 
 > <sub>&nbsp;<i>secure by design, fast by default.</i></sub>
 
-</td>
-<td valign="top" width="42%">
-
-
-
-<img src="https://img.shields.io/badge/-mobile_imaging-00B4D8?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-automotive_camera-9333EA?style=flat-square&labelColor=0d1117" />
-<br />
-<img src="https://img.shields.io/badge/-full--stack_(2_yrs)-00C896?style=flat-square&labelColor=0d1117" />
-<br />
-<img src="https://img.shields.io/badge/-network_security-FC5531?style=flat-square&labelColor=0d1117" />
-<br />
-<img src="https://img.shields.io/badge/-IT_support-F59E0B?style=flat-square&labelColor=0d1117" />
-
-</div>
-
-</td>
 </tr>
 </table>
 
