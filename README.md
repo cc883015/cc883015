@@ -46,7 +46,7 @@ fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>中文</kbd>&nbsp; <kbd>Python</kb
 
 <br /><br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>several years</i>
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>Three Years</i>
 
 <sub>Tuned camera pipelines for <b>mobile devices</b> and <b>in-vehicle (automotive)</b> imaging systems.<br/>
 Hands-on across the full ISP chain — from raw sensor data to final delivered frame.</sub>
