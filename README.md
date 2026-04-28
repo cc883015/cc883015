@@ -10,7 +10,7 @@
 
 <!-- ─────────── ROLE PILLS ─────────── -->
 
-<br /><br />
+<br >
 
 
 <img src="https://img.shields.io/badge/IMAGE_SIGNAL_PROCESSOR_(ISP_TUNING)-00B4D8?style=for-the-badge&labelColor=0d1117" />
