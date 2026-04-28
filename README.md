@@ -28,67 +28,12 @@
 <!--                            ABOUT ME                                 -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> &nbsp; About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> &nbsp; About M
 
-<table>
-<tr>
-<td valign="top" width="55%">
 
-```typescript
-const me = {
-  alias:        "Charles",
-  pronouns:     "he/him",
-  location:     "🌏 somewhere with good coffee",
-  languages:    ["EN", "中文", "Python 🐍", "TS"],
 
-  past_life: {
-    role:  "Imaging / ISP Engineer",
-    years: 4,
-    stack: [
-      "Camera tuning · AE/AWB pipelines",
-      "MTF · VCM · OIS · ToF modules",
-      "Color science · noise modeling",
-    ],
-  },
 
-  current: {
-    focus: [
-      "🛡️  Offensive & defensive security",
-      "🌐  Full-stack web engineering",
-      "☁️  Cloud-native + edge runtimes",
-      "📡  IoT systems & embedded sensors",
-    ],
-    mantra: "secure by design, fast by default",
-  },
 
-  off_the_clock: ["🥾 hiking", "🎮 LoL mid-lane", "☕ specialty coffee"],
-};
-```
-
-</td>
-<td valign="top" width="45%">
-
-<br />
-
-<img alt="hacker terminal" src="https://github.com/AlbinoGeek/AlbinoGeek/raw/main/coder.gif" width="100%" />
-
-<br /><br />
-
-<div align="center">
-
-```ascii
- ╭──────────────────────╮
- │  > status: hacking   │
- │  > caffeine: 98%     │
- │  > bugs:  ~~many~~ 0 │
- ╰──────────────────────╯
-```
-
-</div>
-
-</td>
-</tr>
-</table>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--                          THREE PILLARS                              -->
