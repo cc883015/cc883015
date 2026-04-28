@@ -4,14 +4,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=Charles-Chen&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=imaging%20%C2%B7%20full-stack%20%C2%B7%20cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=Charles-Chen&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=Image Tunning%20%C2%B7%20Front-end-development%20%C2%B7%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <br /><br />
 
 <!-- ─────────── ROLE PILLS ─────────── -->
 
 <img src="https://img.shields.io/badge/IMAGE_SIGNAL_PROCESSOR_(ISP_TUNING)-00B4D8?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91-00C896?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/CYBERSECURITY-FC5531?style=for-the-badge&labelColor=0d1117" />
 <br />
 <img src="https://img.shields.io/badge/CLOUD--NATIVE_%26_EDGE-9333EA?style=for-the-badge&labelColor=0d1117" />
