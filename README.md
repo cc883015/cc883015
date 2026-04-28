@@ -116,30 +116,7 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 </td>
 <td valign="top" width="42%">
 
-<br />
 
-```bash
-┌─────────────────────────────┐
-│  $ uptime                   │
-│  › online since 2018        │
-│                             │
-│  $ status                   │
-│  › shipping                 │
-│                             │
-│  $ caffeine                 │
-│  › 98% [critical]           │
-│                             │
-│  $ bugs                     │
-│  › ░░░░░░░░░░ 0%            │
-│                             │
-│  $ exit                     │
-│  › nope. still building.    │
-└─────────────────────────────┘
-```
-
-<br />
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/-mobile_imaging-00B4D8?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-automotive_camera-9333EA?style=flat-square&labelColor=0d1117" />
