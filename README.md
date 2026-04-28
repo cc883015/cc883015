@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/cc883015">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=600&color=00B4D8&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%24+cat+about.md;%E2%80%BA+imaging+tuner+%C2%B7+full-stack+engineer+%C2%B7+security+researcher;%E2%80%BA+seven+years+writing.+still+typing." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=600&color=00B4D8&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%24+Hello!;%E2%80%BA+Image Tunning+%C2%B7+Front-End-Engineer+%C2%B7+Security researcher;%E2%80%BA+seven+years+writing.+still+typing." />
 </a>
 
 <br /><br />
