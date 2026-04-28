@@ -6,16 +6,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=240&section=header&text=charles&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=imaging%20%C2%B7%20full-stack%20%C2%B7%20cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" />
 
-<br />
+<br /><br />
 
-<a href="https://github.com/cc883015">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=600&color=00B4D8&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%24+cat+about.md;%E2%80%BA+imaging+tuner+%C2%B7+full-stack+engineer+%C2%B7+security+researcher;%E2%80%BA+seven+years+writing.+still+typing." />
-</a>
+<!-- ─────────── ROLE PILLS ─────────── -->
+
+<img src="https://img.shields.io/badge/IMAGE_SIGNAL_PROCESSOR_(ISP_TUNING)-00B4D8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91-00C896?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-FC5531?style=for-the-badge&labelColor=0d1117" />
+<br />
+<img src="https://img.shields.io/badge/CLOUD--NATIVE_%26_EDGE-9333EA?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IT_SUPPORT-F59E0B?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IoT_%26_EMBEDDED-00B4D8?style=for-the-badge&labelColor=0d1117" />
 
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=cc883015&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/cc883015?style=for-the-badge&color=00B4D8&labelColor=0d1117&label=FOLLOWERS" />
 <img src="https://img.shields.io/badge/Tech_Blogger-7_yrs-FC5531?style=for-the-badge&logo=csdn&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
 
@@ -33,27 +38,24 @@
 
 ### &nbsp;<sub>// 01</sub> &nbsp;&mdash;&nbsp; A&nbsp;B&nbsp;O&nbsp;U&nbsp;T
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<div align="center">
 
 <br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; I D E N T I T Y
+####  <code>▸</code>&nbsp;&nbsp; I D E N T I T Y
 
 <sub><b>Charles</b> &nbsp;&middot;&nbsp; he/him &nbsp;&middot;&nbsp; based in Australia<br/>
 fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>中文</kbd>&nbsp; <kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd></sub>
 
 <br /><br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>several years</i>
+####  <code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>several years</i>
 
 <sub>Tuned camera pipelines for <b>mobile devices</b> and <b>in-vehicle (automotive)</b> imaging systems.<br/>
 Hands-on across the full ISP chain — from raw sensor data to final delivered frame.</sub>
 
-<sub>&nbsp;</sub>
+<br />
 
-<sub>
 <img src="https://img.shields.io/badge/AE-00B4D8?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/AWB-00B4D8?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MTF-00B4D8?style=flat-square&labelColor=0d1117" />
@@ -62,32 +64,28 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 <img src="https://img.shields.io/badge/ToF-00B4D8?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/color_science-00B4D8?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/noise_modeling-00B4D8?style=flat-square&labelColor=0d1117" />
-</sub>
 
-<br /><br />
+<br /><br /><br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; D E V E L O P M E N T &nbsp;&middot;&nbsp; <i>2 years</i>
+####  <code>▸</code>&nbsp;&nbsp; D E V E L O P M E N T &nbsp;&middot;&nbsp; <i>2 years</i>
 
 <sub>Shipping production full-stack web apps end-to-end — from edge runtime down to relational persistence.</sub>
 
-<sub>&nbsp;</sub>
+<br />
 
-<sub>
 <img src="https://img.shields.io/badge/Node_%2B_React-00C896?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/TypeScript-00C896?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Python-00C896?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/C_%2F_C%2B%2B-00C896?style=flat-square&labelColor=0d1117" />
-</sub>
 
-<br /><br />
+<br /><br /><br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; I T &nbsp; S U P P O R T
+####  <code>▸</code>&nbsp;&nbsp; I T &nbsp; S U P P O R T
 
 <sub>Daily-driver support across heterogeneous environments — endpoints, networks, and small-business gear.</sub>
 
-<sub>&nbsp;</sub>
+<br />
 
-<sub>
 <img src="https://img.shields.io/badge/Windows-F59E0B?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/macOS-F59E0B?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Linux-F59E0B?style=flat-square&labelColor=0d1117" />
@@ -95,66 +93,25 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 <img src="https://img.shields.io/badge/POS-F59E0B?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Printers-F59E0B?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Access_Control-F59E0B?style=flat-square&labelColor=0d1117" />
-</sub>
 
-<br /><br />
+<br /><br /><br />
 
-####  &nbsp;<code>▸</code>&nbsp;&nbsp; C U R R E N T &nbsp; F O C U S
+####  <code>▸</code>&nbsp;&nbsp; C U R R E N T &nbsp; F O C U S
 
-<sub>
+<br />
+
 <img src="https://img.shields.io/badge/Offensive_%26_Defensive_Security-FC5531?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Cloud--native_%2B_Edge-9333EA?style=flat-square&labelColor=0d1117" />
-<br/>
 <img src="https://img.shields.io/badge/IoT_Systems-00B4D8?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Embedded_Sensors-00B4D8?style=flat-square&labelColor=0d1117" />
-</sub>
 
 <br /><br />
 
-> <sub>&nbsp;<i>secure by design, fast by default.</i></sub>
-
-</td>
-<td valign="top" width="42%">
+<sub>&mdash;&nbsp; <i>secure by design, fast by default.</i> &nbsp;&mdash;</sub>
 
 <br />
-
-```bash
-┌─────────────────────────────┐
-│  $ uptime                   │
-│  › online since 2018        │
-│                             │
-│  $ status                   │
-│  › shipping                 │
-│                             │
-│  $ caffeine                 │
-│  › 98% [critical]           │
-│                             │
-│  $ bugs                     │
-│  › ░░░░░░░░░░ 0%            │
-│                             │
-│  $ exit                     │
-│  › nope. still building.    │
-└─────────────────────────────┘
-```
-
-<br />
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-mobile_imaging-00B4D8?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-automotive_camera-9333EA?style=flat-square&labelColor=0d1117" />
-<br />
-<img src="https://img.shields.io/badge/-full--stack_(2_yrs)-00C896?style=flat-square&labelColor=0d1117" />
-<br />
-<img src="https://img.shields.io/badge/-network_security-FC5531?style=flat-square&labelColor=0d1117" />
-<br />
-<img src="https://img.shields.io/badge/-IT_support-F59E0B?style=flat-square&labelColor=0d1117" />
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br />
 
