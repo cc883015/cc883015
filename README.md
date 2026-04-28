@@ -37,42 +37,81 @@
 <tr>
 <td valign="top" width="58%">
 
-```typescript
-const me = {
-  alias:        "Charles",
-  pronouns:     "he/him",
-  languages:    ["EN", "中文", "Python", "TypeScript"],
+<br />
 
-  experience: {
-    imaging_tuning: {
-      years:   "several",
-      domains: ["mobile camera", "in-vehicle imaging"],
-      stack:   ["AE", "AWB", "MTF", "VCM", "OIS", "ToF",
-                "color science", "noise modeling"],
-    },
-    development: {
-      years: 2,
-      stack: ["full-stack web", "Node + React",
-              "Python", "C / C++"],
-    },
-    it_support: [
-      "Windows · macOS · Linux administration",
-      "Networking — routers, switches, APs",
-      "POS terminals · printers · access control",
-      "Endpoint diagnostics & onboarding",
-    ],
-  },
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; I D E N T I T Y
 
-  focus: [
-    "offensive & defensive security",
-    "full-stack web engineering",
-    "cloud-native + edge runtimes",
-    "IoT systems & embedded sensors",
-  ],
+<sub><b>Charles</b> &nbsp;&middot;&nbsp; he/him &nbsp;&middot;&nbsp; based in Australia<br/>
+fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>中文</kbd>&nbsp; <kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd></sub>
 
-  mantra: "secure by design, fast by default",
-};
-```
+<br /><br />
+
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>several years</i>
+
+<sub>Tuned camera pipelines for <b>mobile devices</b> and <b>in-vehicle (automotive)</b> imaging systems.<br/>
+Hands-on across the full ISP chain — from raw sensor data to final delivered frame.</sub>
+
+<sub>&nbsp;</sub>
+
+<sub>
+<img src="https://img.shields.io/badge/AE-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AWB-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MTF-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/VCM-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OIS-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ToF-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/color_science-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/noise_modeling-00B4D8?style=flat-square&labelColor=0d1117" />
+</sub>
+
+<br /><br />
+
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; D E V E L O P M E N T &nbsp;&middot;&nbsp; <i>2 years</i>
+
+<sub>Shipping production full-stack web apps end-to-end — from edge runtime down to relational persistence.</sub>
+
+<sub>&nbsp;</sub>
+
+<sub>
+<img src="https://img.shields.io/badge/Node_%2B_React-00C896?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript-00C896?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-00C896?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C_%2F_C%2B%2B-00C896?style=flat-square&labelColor=0d1117" />
+</sub>
+
+<br /><br />
+
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; I T &nbsp; S U P P O R T
+
+<sub>Daily-driver support across heterogeneous environments — endpoints, networks, and small-business gear.</sub>
+
+<sub>&nbsp;</sub>
+
+<sub>
+<img src="https://img.shields.io/badge/Windows-F59E0B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/macOS-F59E0B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-F59E0B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Routers_%C2%B7_Switches_%C2%B7_APs-F59E0B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/POS-F59E0B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Printers-F59E0B?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Access_Control-F59E0B?style=flat-square&labelColor=0d1117" />
+</sub>
+
+<br /><br />
+
+####  &nbsp;<code>▸</code>&nbsp;&nbsp; C U R R E N T &nbsp; F O C U S
+
+<sub>
+<img src="https://img.shields.io/badge/Offensive_%26_Defensive_Security-FC5531?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Cloud--native_%2B_Edge-9333EA?style=flat-square&labelColor=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/IoT_Systems-00B4D8?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Embedded_Sensors-00B4D8?style=flat-square&labelColor=0d1117" />
+</sub>
+
+<br /><br />
+
+> <sub>&nbsp;<i>secure by design, fast by default.</i></sub>
 
 </td>
 <td valign="top" width="42%">
