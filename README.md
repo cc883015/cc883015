@@ -42,8 +42,6 @@
 ####  &nbsp;<code>▸</code>&nbsp;&nbsp; I D E N T I T Y
 
 <sub><b>Charles</b> &nbsp;&middot;&nbsp; he/him &nbsp;&middot;&nbsp; based in Australia<br/>
-fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>中文</kbd>&nbsp; <kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd></sub>
-
 <br /><br />
 
 ####  &nbsp;<code>▸</code>&nbsp;&nbsp; I M A G I N G &nbsp;&middot;&nbsp; <i>3 Years</i>
