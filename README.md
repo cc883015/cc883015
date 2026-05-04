@@ -54,6 +54,7 @@ fluent in &nbsp;<kbd>English</kbd>&nbsp; <kbd>Python</kbd>&nbsp; <kbd>TypeScript
 <br />
 <img src="https://img.shields.io/badge/Cloud--Native_%26_Edge-9333EA?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/IT_Support-F59E0B?style=for-the-badge&labelColor=0d1117" />
+<img width="703" height="520" alt="image" src="https://github.com/user-attachments/assets/27a6dd7a-0ced-4515-b98e-edab1e21403b" />
 <img src="https://img.shields.io/badge/IoT_%26_Embedded-00B4D8?style=for-the-badge&labelColor=0d1117" />
 
 <br /><br /><br />
