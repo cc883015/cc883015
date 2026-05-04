@@ -1,3 +1,4 @@
+<div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=220&section=header&text=Charles%20Chen&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Image%20Tuning%20%7C%20Front-end%20Development%20%7C%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" alt="Header Banner" />
 
@@ -10,22 +11,24 @@
   <img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
 
 </div>
-</div>
 
-<!-- Certifications 外部容器 -->
-<div style="background-color: #0d1117; color: #ffffff; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                      // CERTIFICATIONS                              -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center" style="background-color: #0d1117; color: #ffffff; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 
   <!-- 主标题 -->
-  <h2 style="font-size: 20px; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-bottom: 20px; margin-top: 0;">Certifications</h2>
+  <h2 style="font-size: 20px; font-weight: bold; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-bottom: 20px; margin-top: 0; text-align: center;">Certifications</h2>
 
   <!-- Google Cybersecurity 证书容器 -->
-  <div style="display: flex; align-items: center; justify-content: center; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
+  <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; margin-bottom: 20px; max-width: 900px; width: 100%;">
     <!-- 左侧文字区域 -->
-    <div style="flex: 1; padding: 20px; border-right: 1px solid #30363d;">
+    <div style="flex: 1; padding: 20px; border-right: 1px solid #30363d; text-align: left;">
       <h3 style="font-size: 16px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Cybersecurity</h3>
       <ul style="list-style-type: disc; margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6;">
         <li>Google Cybersecurity Professional Certificate</li>
-        <li>Network & Network Security Hardening</li>
+        <li>Network &amp; Network Security Hardening</li>
         <li>Detection and Response (SIEM/IDS)</li>
         <li>Automate Cybersecurity Tasks with Python</li>
       </ul>
@@ -36,9 +39,9 @@
     </div>
   </div>
 
-  <!-- 如果你有其他证书（如 QUT 在读证明或未来的 CompTIA），可以按此格式继续添加 -->
-  <div style="display: flex; align-items: center; justify-content: center; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden;">
-    <div style="flex: 1; padding: 20px; border-right: 1px solid #30363d;">
+  <!-- QUT 证书 -->
+  <div style="display: inline-flex; align-items: center; justify-content: center; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; max-width: 900px; width: 100%;">
+    <div style="flex: 1; padding: 20px; border-right: 1px solid #30363d; text-align: left;">
       <h3 style="font-size: 16px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Information Technology</h3>
       <ul style="list-style-type: disc; margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6;">
         <li>Master of Information Technology (In Progress)</li>
@@ -52,12 +55,7 @@
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=2" width="100%" />
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                       // 01 — about                                 -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<br />
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                       // 01 — about                                 -->
@@ -175,6 +173,8 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 
 ### &nbsp;<sub>// 02</sub> &nbsp;&mdash;&nbsp; C&nbsp;A&nbsp;P&nbsp;A&nbsp;B&nbsp;I&nbsp;L&nbsp;I&nbsp;T&nbsp;I&nbsp;E&nbsp;S
 
+<div align="center">
+
 <table>
 <tr>
 
@@ -224,6 +224,8 @@ Hands-on across the full ISP chain — from raw sensor data to final delivered f
 
 </tr>
 </table>
+
+</div>
 
 <br />
 
