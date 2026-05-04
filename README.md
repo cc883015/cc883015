@@ -12,6 +12,10 @@
 
 </div>
 
+<img width="751" height="583" alt="image" src="https://github.com/user-attachments/assets/b2e8898f-1bf2-47f0-a693-799977024419" />
+<img width="752" height="581" alt="image" src="https://github.com/user-attachments/assets/feec92ce-5f8a-45a9-a325-a8114f6d58c6" />
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=2" width="100%" />
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                       // 01 — about                                 -->
