@@ -45,7 +45,7 @@
       <h3 style="font-size: 16px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Information Technology</h3>
       <ul style="list-style-type: disc; margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6;">
         <li>Master of Information Technology (In Progress)</li>
-        <li>Queensland University of Technology (QUT)</li>
+        <li>Google IT Support</li>
       </ul>
     </div>
     <div style="width: 350px; padding: 20px; display: flex; justify-content: center;">
