@@ -1,4 +1,3 @@
-<img width="755" height="584" alt="image" src="https://github.com/user-attachments/assets/f25e3445-d6b7-4ba4-af9a-660a6339f441" /><div align="center">
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,11&height=220&section=header&text=Charles%20Chen&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Image%20Tuning%20%7C%20Front-end%20Development%20%7C%20Cybersecurity&descAlignY=62&descSize=18&animation=fadeIn" alt="Header Banner" />
 
@@ -11,9 +10,10 @@
   <img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
 
 </div>
+
+
 <div style="display: flex; justify-content: center;">
 <img width="756" height="582" alt="image" src="https://github.com/user-attachments/assets/45c24c40-5a99-4359-8f63-3e6d2d407038" />
-
 <img width="750" height="585" alt="image" src="https://github.com/user-attachments/assets/db9b3bfc-d083-4120-a93b-e4c3bc87cbb3" />
 </div>
 
