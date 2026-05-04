@@ -12,49 +12,7 @@
 </div>
 
 
-<!-- Certifications 外部容器，设置深色背景和整体字体 -->
-<div style="background-color: #1a1a2e; color: #ffffff; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 
-  <!-- 主标题 (可选，根据原图保留) -->
-  <h2 style="font-size: 20px; font-weight: bold; border-bottom: 2px solid #3d465c; padding-bottom: 10px; margin-bottom: 20px; margin-top: 0;">Certifications</h2>
-
-  <!-- 第一组容器：仿 Security 样式 -->
-  <div style="display: flex; align-items: center; justify-content: center; background-color: #242533; border: 1px solid #3d465c; border-radius: 8px; overflow: hidden; margin-bottom: 20px;">
-    <!-- 左侧文字区域 -->
-    <div style="flex: 1; padding: 20px; border-right: 1px solid #3d465c;">
-      <h3 style="font-size: 16px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Security</h3>
-      <ul style="list-style-type: disc; margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6;">
-        <li>Huawei ICT Certified Expert (HCIE)</li>
-        <li>NSFOCUS Security Consultant (NSSP-Solution)</li>
-        <li>NSFOCUS Security Engineer (NSSP-Service)</li>
-      </ul>
-    </div>
-    <!-- 右侧图片区域，保持剧透 -->
-    <div style="width: 320px; padding: 20px; display: flex; justify-content: center;">
-      <img width="280" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.5); object-fit: contain;" alt="Security Cert" src="https://github.com/user-attachments/assets/45c24c40-5a99-4359-8f63-3e6d2d407038" />
-    </div>
-  </div>
-
-  <!-- 分割线，模仿图片中较淡的水平线 -->
-  <hr style="border: 0; border-top: 1px solid #3d465c; margin: 20px 0;"/>
-
-  <!-- 第二组容器：仿 Cloud & Networking 样式 -->
-  <div style="display: flex; align-items: center; justify-content: center; background-color: #242533; border: 1px solid #3d465c; border-radius: 8px; overflow: hidden;">
-    <!-- 左侧文字区域 -->
-    <div style="flex: 1; padding: 20px; border-right: 1px solid #3d465c;">
-      <h3 style="font-size: 16px; font-weight: bold; margin-top: 0; margin-bottom: 10px;">Cloud & Networking</h3>
-      <ul style="list-style-type: disc; margin: 0; padding-left: 20px; font-size: 14px; line-height: 1.6;">
-        <li>Huawei ICT Certified Routing & Switching Engineer (HCIP)</li>
-        <li>Huawei Cloud Expert</li>
-      </ul>
-    </div>
-    <!-- 右侧图片区域 -->
-    <div style="width: 320px; padding: 20px; display: flex; justify-content: center;">
-      <img width="280" style="border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.5); object-fit: contain;" alt="Cloud Cert" src="https://github.com/user-attachments/assets/db9b3bfc-d083-4120-a93b-e4c3bc87cbb3" />
-    </div>
-  </div>
-
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,11&height=2" width="100%" />
