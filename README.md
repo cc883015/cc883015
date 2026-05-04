@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Open_to-Work-00C896?style=for-the-badge&labelColor=0d1117" />
 
 </div>
-
+</div>
 
 
 
